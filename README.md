@@ -11,6 +11,7 @@
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  [![Hacktoberfest 2025 Badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmggj1nsx0015jr04dm18j1xt)](https://www.holopin.io/hacktoberfest2025/userbadge/cmggj1nsx0015jr04dm18j1xt)
 </div>
 ###
 
