@@ -11,8 +11,11 @@
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  [![Hacktoberfest 2025 Badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmggj1nsx0015jr04dm18j1xt)](https://www.holopin.io/hacktoberfest2025/userbadge/cmggj1nsx0015jr04dm18j1xt)
-</div>
+  <div align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmggj1nsx0015jr04dm18j1xt">
+    <img src="https://github.com/vivekvernekar26/vivekvernekar26/blob/main/assets/Pasted%20image.png?raw=true" alt="Hacktoberfest 2025 Badge" width="250">
+  </a>
+</div></div>
 ###
 
 <div align="left">
