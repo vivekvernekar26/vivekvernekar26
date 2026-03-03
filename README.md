@@ -36,7 +36,6 @@ const vivek = {
 };
 ```
 
-- 🔭 I'm currently working on **[DEV ELEVATE](https://github.com/vivekvernekar26/DEV_ELEVATE-main-)** — a developer utility platform
 - 🌱 I'm currently learning **React.js, Next.js & Cloud Technologies**
 - 🤝 I'm looking to collaborate on **Open Source Projects & Web Apps**
 - 🏆 **Hacktoberfest 2025** participant & contributor
@@ -71,24 +70,6 @@ const vivek = {
 
 #### 🔧 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 [**Portfolio**](https://vivekvernekar26.github.io/vivekvernekar_portfolio/) | My personal developer portfolio website | React, Vite, CSS |
-| 📝 [**BlogNest**](https://github.com/vivekvernekar26/BlogNest) | A modern blogging platform | Web Technologies |
-| 🛠️ [**DEV ELEVATE**](https://github.com/vivekvernekar26/DEV_ELEVATE-main-) | Developer utility & resource platform | React, Firebase |
-| 🔌 [**Digital Circuit Simulator**](https://github.com/vivekvernekar26/Digital-Circuit-Simulator) | Simulate digital circuits in the browser | JavaScript |
-| 🎥 [**MeTube**](https://github.com/vivekvernekar26/MeTube) | YouTube-inspired video platform | Web Technologies |
-| 📄 [**Resume Matcher**](https://github.com/vivekvernekar26/Resume-Matcher) | AI-powered resume matching tool | Python |
-| 🚗 [**Car Rental**](https://github.com/vivekvernekar26/Car_Rental_2025) | Car rental booking system | Full-Stack |
 
 </div>
 
