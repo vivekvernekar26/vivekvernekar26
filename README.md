@@ -103,14 +103,20 @@ const vivek = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivekvernekar26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekvernekar26&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/vivekvernekar26">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivekvernekar26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/vivekvernekar26">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=vivekvernekar26&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvernekar26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/vivekvernekar26">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvernekar26&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&size_weight=0.5&count_weight=0.5&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
