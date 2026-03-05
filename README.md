@@ -37,7 +37,7 @@ const vivek = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
     role: "Full-Stack Developer",
-    education: "Diploma Student",
+    education: "Undergraduate Student",
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm not ashamed 😄"
 };
