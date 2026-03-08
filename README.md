@@ -60,7 +60,7 @@ const vivek = {
 
 <div align="center">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhm112lo0036l504l6zyw3xq">
-    <img src="https://github.com/vivekvernekar26/vivekvernekar26/blob/main/assets/achive.png" alt="Hacktoberfest 2025 Badge" width="500">
+    <img src="https://github.com/vivekvernekar26/vivekvernekar26/blob/main/assets/achive.png" alt="Hacktoberfest 2025 Badge" width="600">
   </a>
 </div>
 
